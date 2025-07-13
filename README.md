@@ -1,6 +1,9 @@
-# Demo
+# Predictive Modeling Using SBA National Dataset
 
-Hi I am Gia Huy he he
+The Small Business Administration (SBA), established in 1953, has played a crucial role in supporting small businesses and entrepreneurship in the United States. Through its loan guarantee programs, the SBA helps reduce lending risks, encouraging banks to extend credit to small enterprises that drive job creation and economic development. With a network of 10 regional offices and a workforce exceeding 8,000, the SBA facilitated over 103,000 small-business financings in fiscal year 2024, a 22% increase from the previous year, contributing a total capital impact of $56 billion.
 
-yollo
+However, not all loans are successfully repaid. Loan defaults present significant financial risks to lenders, making effective risk assessment a crucial part of the lending process. Traditionally, loan decisions were often based on credit history and qualitative assessments. Yet, as financial markets become more complex, data-driven approaches have become increasingly important. Data analysis allows lenders to move beyond intuition, leveraging historical trends and statistical models to improve the accuracy of credit risk evaluations and make more informed, objective lending decisions.
+
+This project aims to develop a comprehensive predictive framework for small-business loan defaults using various machine learning algorithms, including Logistic Regression, Random Forest, XGBoost, Neural Network, Multilayer Perceptron. Beyond classification accuracy, we incorporate a cost-benefit analysis through a customized cost matrix to better reflect the financial consequences of loan decisions. By aligning model outputs with profit-maximization goals, the final recommendation will not only predict default risks but also support lenders in optimizing their approval strategies for maximum financial return.
+
 
