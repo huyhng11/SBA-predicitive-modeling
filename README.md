@@ -50,6 +50,25 @@ This project aims to develop a comprehensive predictive framework for small-busi
 
 > **Key Insight**: Approving only the top ~76–80% of applications based on repayment likelihood **maximizes profit**. This is operationalized using model-specific "P(Paid in Full)" thresholds.
 
+
+## 📂 File Descriptions
+
+| File Name                               | Description |
+|----------------------------------------|-------------|
+| `README.md`                            | Project overview, objectives, results, and usage instructions |
+| `2024_business_analytics_competition.pdf` | External document or competition brief (possibly for submission) |
+| `ML Final Project - Group 4.pdf`       | Presentation version of the final project deliverable |
+| `[BANA4020_Group4] Final Project Report.pdf` | Full final report with methodology, results, and references |
+| `best_mlp_model.joblib`                | Serialized best-performing Multilayer Perceptron model |
+| `knn.py`                               | Script to train and evaluate a K-Nearest Neighbors model |
+| `lasso_model.joblib`                   | Trained Lasso Regression model saved using `joblib` |
+| `logistic regression running file.py`  | Script to train Logistic Regression models with L1/L2 regularization |
+| `neural network.py`                    | Multilayer Perceptron (Neural Network) model training and evaluation |
+| `random forest.py`                     | Random Forest training script with performance evaluation |
+
+> 📌 Tip: Run any `.py` script to train the model after data preprocessing. Models are saved to `.joblib` files for reuse or deployment.
+
+
 ## 🚀 How to Use
 
 ```bash
