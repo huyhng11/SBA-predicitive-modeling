@@ -55,8 +55,7 @@ This project aims to develop a comprehensive predictive framework for small-busi
 
 | File Name                               | Description |
 |----------------------------------------|-------------|
-| `README.md`                            | Project overview, objectives, results, and usage instructions |
-| `2024_business_analytics_competition.pdf` | External document or competition brief (possibly for submission) |
+| `2024_business_analytics_competition.pdf` | Competition and problem brief |
 | `ML Final Project - Group 4.pdf`       | Presentation version of the final project deliverable |
 | `[BANA4020_Group4] Final Project Report.pdf` | Full final report with methodology, results, and references |
 | `best_mlp_model.joblib`                | Serialized best-performing Multilayer Perceptron model |
